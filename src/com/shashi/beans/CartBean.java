@@ -18,7 +18,7 @@ public class CartBean implements Serializable {
 		return userId;
 	}
 
-	public void setUserId(String userId) {
+	public void VrajsetUserId(String userId) {
 		this.userId = userId;
 	}
 
