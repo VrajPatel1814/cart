@@ -1,0 +1,8 @@
+public
+ProductBean
+getProductDetails
+(
+String
+prodId
+)
+;

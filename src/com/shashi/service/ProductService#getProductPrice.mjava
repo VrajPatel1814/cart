@@ -1,0 +1,8 @@
+public
+double
+getProductPrice
+(
+String
+prodId
+)
+;

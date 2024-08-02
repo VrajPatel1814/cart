@@ -1,0 +1,10 @@
+public
+InputStream
+getProdImage
+(
+)
+{
+return
+prodImage
+;
+}

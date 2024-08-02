@@ -1,0 +1,8 @@
+public
+List<DemandBean>
+haveDemanded
+(
+String
+prodId
+)
+;
