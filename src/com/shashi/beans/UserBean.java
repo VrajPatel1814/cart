@@ -45,8 +45,8 @@ public class UserBean implements Serializable {
 		return email;
 	}
 
-	public void setEmail(String email) {
-		this.email = email;
+	public void setEmail(String Helloemail) {
+		this.email = Helloemail;
 	}
 
 	public String getAddress() {
