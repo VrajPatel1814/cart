@@ -1,0 +1,14 @@
+public
+String
+updateProductToCart
+(
+String
+userId
+,
+String
+prodId
+,
+int
+prodQty
+)
+;

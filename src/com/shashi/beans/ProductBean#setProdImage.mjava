@@ -1,0 +1,13 @@
+public
+void
+setProdImage
+(
+InputStream
+prodImage
+)
+{
+this
+.
+prodImage=prodImage
+;
+}

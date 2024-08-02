@@ -1,0 +1,11 @@
+public
+String
+updateProductPrice
+(
+String
+prodId
+,
+double
+updatedPrice
+)
+;

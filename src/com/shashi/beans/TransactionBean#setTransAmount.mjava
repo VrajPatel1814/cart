@@ -1,0 +1,13 @@
+public
+void
+setTransAmount
+(
+double
+transAmount
+)
+{
+this
+.
+transAmount=transAmount
+;
+}

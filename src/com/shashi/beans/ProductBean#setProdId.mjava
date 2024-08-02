@@ -1,0 +1,13 @@
+public
+void
+setProdId
+(
+String
+prodId
+)
+{
+this
+.
+prodId=prodId
+;
+}

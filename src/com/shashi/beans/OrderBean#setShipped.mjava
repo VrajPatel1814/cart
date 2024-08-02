@@ -1,0 +1,13 @@
+public
+void
+setShipped
+(
+int
+shipped
+)
+{
+this
+.
+shipped=shipped
+;
+}

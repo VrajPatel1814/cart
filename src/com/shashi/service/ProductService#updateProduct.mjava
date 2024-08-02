@@ -1,0 +1,11 @@
+public
+String
+updateProduct
+(
+ProductBean
+prevProduct
+,
+ProductBean
+updatedProduct
+)
+;

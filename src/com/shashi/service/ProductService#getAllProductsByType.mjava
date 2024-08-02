@@ -1,0 +1,8 @@
+public
+List<ProductBean>
+getAllProductsByType
+(
+String
+type
+)
+;
