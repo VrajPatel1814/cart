@@ -1,0 +1,8 @@
+public
+boolean
+addProduct
+(
+DemandBean
+userDemandBean
+)
+;

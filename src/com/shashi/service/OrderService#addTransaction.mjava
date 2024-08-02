@@ -1,0 +1,8 @@
+public
+boolean
+addTransaction
+(
+TransactionBean
+transaction
+)
+;

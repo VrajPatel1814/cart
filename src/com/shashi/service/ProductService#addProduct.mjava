@@ -1,0 +1,8 @@
+public
+String
+addProduct
+(
+ProductBean
+product
+)
+;

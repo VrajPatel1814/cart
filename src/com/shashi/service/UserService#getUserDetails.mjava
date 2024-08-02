@@ -1,0 +1,11 @@
+public
+UserBean
+getUserDetails
+(
+String
+emailId
+,
+String
+password
+)
+;

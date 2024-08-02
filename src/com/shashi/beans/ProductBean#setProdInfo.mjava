@@ -1,0 +1,13 @@
+public
+void
+setProdInfo
+(
+String
+prodInfo
+)
+{
+this
+.
+prodInfo=prodInfo
+;
+}

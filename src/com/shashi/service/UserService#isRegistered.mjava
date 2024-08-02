@@ -1,0 +1,8 @@
+public
+boolean
+isRegistered
+(
+String
+emailId
+)
+;
