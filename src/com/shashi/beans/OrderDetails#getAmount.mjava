@@ -1,0 +1,10 @@
+public
+String
+getAmount
+(
+)
+{
+return
+amount
+;
+}

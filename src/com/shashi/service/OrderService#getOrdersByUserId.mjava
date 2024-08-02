@@ -1,0 +1,8 @@
+public
+List<OrderBean>
+getOrdersByUserId
+(
+String
+emailId
+)
+;

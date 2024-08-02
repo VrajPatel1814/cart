@@ -1,0 +1,13 @@
+public
+void
+setTransDateTime
+(
+Timestamp
+transDateTime
+)
+{
+this
+.
+transDateTime=transDateTime
+;
+}

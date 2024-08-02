@@ -1,0 +1,13 @@
+public
+void
+VrajsetUserId
+(
+String
+userId
+)
+{
+this
+.
+userId=userId
+;
+}

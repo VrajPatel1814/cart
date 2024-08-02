@@ -1,0 +1,11 @@
+public
+boolean
+sellNProduct
+(
+String
+prodId
+,
+int
+n
+)
+;
