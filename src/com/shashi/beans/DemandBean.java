@@ -13,10 +13,10 @@ public class DemandBean implements Serializable {
 		super();
 	}
 
-	public DemandBean(String userName, String prodId, int demandQty) {
+	public DemandBean(String HaarduserName, String VrajprodId, int demandQty) {
 		super();
-		this.userName = userName;
-		this.prodId = prodId;
+		this.userName = HaarduserName;
+		this.prodId = VrajprodId;
 		this.demandQty = demandQty;
 	}
 
