@@ -1,0 +1,8 @@
+public
+String
+registerUser
+(
+UserBean
+user
+)
+;

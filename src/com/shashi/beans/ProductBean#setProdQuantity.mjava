@@ -1,0 +1,13 @@
+public
+void
+setProdQuantity
+(
+int
+prodQuantity
+)
+{
+this
+.
+prodQuantity=prodQuantity
+;
+}

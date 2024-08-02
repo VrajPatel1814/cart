@@ -1,0 +1,10 @@
+public
+double
+getProdPrice
+(
+)
+{
+return
+prodPrice
+;
+}

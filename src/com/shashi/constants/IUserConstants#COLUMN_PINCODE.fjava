@@ -1,0 +1,4 @@
+public
+String
+COLUMN_PINCODE="pincode"
+;
